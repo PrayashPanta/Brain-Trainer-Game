@@ -128,7 +128,7 @@ public class MainActivity extends AppCompatActivity {
 
             @Override
             public void onFinish() {
-                resultTextView.setText("DONE!");
+                resultTextView.setText("TIME UP!");
                 playAgainButton.setVisibility(View.VISIBLE);
 
             }
